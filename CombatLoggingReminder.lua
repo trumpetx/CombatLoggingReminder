@@ -28,7 +28,7 @@ local function HandlePlayerEnteringWorld(self, event, msg)
 	if IsEnteringRaid() and LoggingCombat() ~= 1 then
 		StaticPopup_Show("ENABLE_COMBAT_LOGGING")
 	end
-	if not IsEnteringRaid() and not IsInRaid() and LoggingCombat() == 1 then
+	if not IsInRaid() and LoggingCombat() == 1 then
 		DisableCombatLogging()
 	end
 end
