@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Combat Logging Reminder
+## Version: 1.0.0
+## Notes: https://github.com/trumpetx/CombatLoggingReminder
+## Author: |c013220ffTrumpetX|r
+
+CombatLoggingReminder.lua
