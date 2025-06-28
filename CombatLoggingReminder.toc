@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: Combat Logging Reminder
 ## Version: 1.0.0
-## Notes: https://github.com/trumpetx/CombatLoggingReminder
+## Notes: Automatically reminds you to enable combat logging when entering raids and disables it when leaving.
 ## Author: |c013220ffTrumpetX|r
 
 CombatLoggingReminder.lua
